@@ -1,1 +1,1 @@
-This Terraform Template Launches EC2 Instances as per the specified varaibles.
+This Terraform Template can launch EC2 Instances in a VPC with Apache and MySQL, as per the specified varaibles.
